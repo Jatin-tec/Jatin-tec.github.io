@@ -1,1 +1,0 @@
-# Jatin-tec.github.io
