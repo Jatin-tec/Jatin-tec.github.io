@@ -1,6 +1,3 @@
-<blockquote>
-Jatin Kshatriya
-</blockquote>
-<blockquote>
-Email: jatin24ai024@satiengg.in
-</blockquote>
+# Portfolio
+
+LINK: https://sandip-portfoliojs.netlify.app/
