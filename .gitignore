@@ -1,0 +1,7 @@
+# default react app ignores
+
+# node_modules
+node_modules
+
+# build
+dist
