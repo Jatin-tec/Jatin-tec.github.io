@@ -30,7 +30,8 @@ const Hero = () => {
                 2000,
                 "Freelancer",
                 2000,
-                "",
+                "AI & Data Science Specialist",
+                2000
               ]}
               speed={30}
               wrapper="h2"
@@ -41,7 +42,7 @@ const Hero = () => {
               // data-aos="fade-up"
               className=" text-[1.1rem] font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
             >
-              Lorem ipsum dolor sit amet consectetur
+              The more you know, the more you realize how little you know
             </p>
           </div>
           <div data-aos="fade-up" className="buttons flex gap-5">
