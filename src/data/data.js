@@ -17,7 +17,7 @@ export const data = [
   },
   {
     id: 3,
-    img: 'https://i.postimg.cc/wBjcJcW7/5890625.jpg',
+    img: 'https://i.postimg.cc/cLhZhwHk/ga-full.jpg',
     title: "Genetic Algorithm",
     desc: "This project demonstrates a genetic algorithm that evolves a population of rockets to reach a target while avoiding an obstacle.",
     link: "",
@@ -29,7 +29,22 @@ export const data = [
     title: "Video Action Classification",
     desc: "",
     link: "https://colab.research.google.com/drive/1paSC1fDK5G8sMYAjG-yyuVpXGUJX06vi?usp=sharing",
-    git: "https://github.com/WebCrisp/SkinZen",
+    git: "",
   },
-  
+  {
+    id: 5,
+    img: 'https://i.postimg.cc/3R848VJ8/download.jpg',
+    title: "Transaction Fraud Detection",
+    desc: "",
+    link: "https://colab.research.google.com/drive/1S57NfwQ9T12NWBqTytZyyLcz41myVu5k?usp=sharing",
+    git: "",
+  },
+  {
+    id: 6,
+    img: 'https://i.postimg.cc/hP94fMJN/Scrolls.png',
+    title: "Vesuvius Scrolls",
+    desc: "Submission for the Vesuvius Challenge - Ink Detection, a Kaggle competition that hosts the Ink Detection.",
+    link: "https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection",
+    git: "https://github.com/Jatin-tec/Vesuvius-Scrolls",
+  }
 ];
