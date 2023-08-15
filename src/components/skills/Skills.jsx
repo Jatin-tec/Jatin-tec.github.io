@@ -39,8 +39,8 @@ const Skills = ({ darkMode }) => {
               />
               <SkillBox
                 logo={<SiMongodb />}
-                black={"black"}
-                white={"white"}
+                black={"white"}
+                white={"black"}
                 skill={"MongoDB"}
               />
               <SkillBox
@@ -59,22 +59,22 @@ const Skills = ({ darkMode }) => {
               />
               <SkillBox
                 logo={<SiFirebase />}
-                black={"black"}
-                white={"white"}
+                black={"white"}
+                white={"black"}
                 skill={"Firebase"}
               />
               <SkillBox
                 logo={<SiExpress />}
-                black={"black"}
-                white={"white"}
+                black={"white"}
+                white={"black"}
                 skill={"Express Js"}
               />
             </div>
             <div className="last2 flex flex-col gap-10">
               <SkillBox
                 logo={<SiGit />}
-                black={"black"}
-                white={"white"}
+                black={"white"}
+                white={"black"}
                 skill={"Git"}
               />
               <SkillBox
@@ -99,8 +99,8 @@ const Skills = ({ darkMode }) => {
               />
               <SkillBox
                 logo={<SiPytorch />}
-                black={"black"}
-                white={"white"}
+                black={"white"}
+                white={"black"}
                 skill={"Pytorch"}
               />
               <SkillBox
