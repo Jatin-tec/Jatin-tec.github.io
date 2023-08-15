@@ -1,10 +1,7 @@
-import SkinZen from "../assets/projects/SkinZen.png";
-import DataSeeker from "../assets/projects/DataSeeker.png";
-
 export const data = [
   {
     id: 1,
-    img: SkinZen,
+    img: "https://i.postimg.cc/gJVs1NpP/SkinZen.png",
     title: "SkinZen",
     desc: "SkinZen is a web-based product that accurately detects and classifies the severity of acne using the ResNet-101 architecture. The project incorporated additional models like eye-cascade and face-landmarks to extract skin patches from images, enhancing the classification process.",
     link: "https://huggingface.co/spaces/jatin-tech/SkinZen",
@@ -12,7 +9,7 @@ export const data = [
   },
   {
     id: 2,
-    img: DataSeeker,
+    img: "https://i.postimg.cc/RCTM1H83/demo-screenshot.png",
     title: "Data Seekr",
     desc: "DataSeekr is a powerful search engine application designed to help you efficiently search and explore your personal data, specifically focusing on Gmail.",
     link: "",
@@ -28,7 +25,7 @@ export const data = [
   },
   {
     id: 4,
-    img: 'https://i.postimg.cc/VkRWdHWx/57214s81.jpg',
+    img: 'https://i.postimg.cc/wTP7CNkW/Action-Recognition.png',
     title: "Video Action Classification",
     desc: "",
     link: "https://colab.research.google.com/drive/1paSC1fDK5G8sMYAjG-yyuVpXGUJX06vi?usp=sharing",
