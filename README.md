@@ -1,39 +1,40 @@
-# Portfolio Website
+# <a href="https://vinodjangid07.github.io/" target="_blank">My Portfolio</a>
+<p align="justify">This website displays my Projects, Web presence, Story, Work experience, and contact information.</p>
 
-Welcome to my portfolio website GitHub repository! This repository contains the code and assets for my personal portfolio website. The purpose of this website is to showcase my projects, introduce myself, and share my skills with the world. The website is built using React and is deployed using GitHub Pages.
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/vinodjangid07/vinodjangid07.github.io)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://vinodjangid07.github.io/)
+[![Author](https://img.shields.io/badge/Author-Vinod%20Jangid-purple.svg)](https://www.instagram.com/its_.me._vinod?igshid=YmMyMTA2MsY%3D)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-11%20Jan%202024-yellow.svg)](https://github.com/vinodjangid07/vinodjangid07.github.io)
+<a href="https://github.com/vinodjangid07/vinodjangid07.github.io/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
 
-## Table of Contents
+<img width="100%" alt="Portfolio Screenshot" src="https://github.com/vinodjangid07/vinodjangid07.github.io/assets/86096184/fd0d70b2-1505-4adf-8b0c-427df58607e3">
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [License](#license)
 
-## Introduction
+:star: Star me on GitHub — it helps!
 
-This portfolio website serves as a hub for anyone interested in learning about my professional background, projects, and skills. Whether you're a potential employer, collaborator, or just curious about my work, you'll find relevant information here.
+# Sections 📚
 
-## Features
+✔️ Mini intro\
+✔️ About me \
+✔️ Skills\
+✔️ Projects\
+✔️ Contact me
 
-- **Project Showcase:** Browse through a curated selection of my projects. Each project comes with a brief description, images, and links to live demos or GitHub repositories.
-- **About Me:** Get to know me better through the "About Me" section. Learn about my background, interests, and what drives me as a developer.
-- **Skills:** Discover the technologies and skills I've acquired over my journey. From programming languages to frameworks and tools, you'll find a comprehensive list of my capabilities.
+## Installation & Deployment 📦
+- Clone the repository and modify the content of <b>index.html</b> according to your requirement.
+- ⚠️ Remove my Bitmoji <img src="https://github.com/vinodjangid07/vinodjangid07.github.io/assets/86096184/05e5b2d6-8b38-4cf9-a5a3-eb63e81aab1d" width="20px"> from the navbar and use yours instead.⚠️
+- Add or remove images from `https://www.vinodjangid.me/src/` directory as per your requirement.
+- Push the generated code to the `master` branch of this repository.
+- ⚠️<b>NOTE:</b> Make sure to remove `analyticsId` & `google search console Id` from `<head>` tag, and set yours, if you want to use your own Google Analytics & search console account.⚠️
 
-## Technologies Used
 
-The portfolio website is built using the following technologies:
+## License 📄
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
 
-- **React:** The website is developed using the React JavaScript library, allowing for dynamic and responsive user interfaces.
-- **GitHub Pages:** The website is deployed using GitHub Pages, making it easily accessible and shareable.
-- **HTML/CSS:** Standard web technologies are used to structure and style the content, ensuring a visually appealing presentation.
-- **Responsive Design:** The website is designed to be responsive, providing an optimal viewing experience across various devices and screen sizes.
+## Tools Used 🛠️
+* [<b>GitHub</b>](https://github.com/) - To host my static website (HTML, CSS, JS).
+* [<b>Animate on scroll library</b>](https://github.com/michalsnik/aos) - To animate my website while scrolling.
+* [<b>Animista</b>](https://animista.net/) - To use Interactive animations
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to explore the code, use it as a reference for your own portfolio, and connect with me for any inquiries or collaborations.
-
-Thank you for visiting my portfolio repository! 🚀
+Please contact me at infovinodjangid@gmail.com if you have any feedback for the website. :star: Star it, if you like it!
