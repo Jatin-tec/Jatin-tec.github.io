@@ -949,9 +949,43 @@ noscript{
     transform: translate(-20px,-20px);
     transition-duration: .5s;
 }
-/* about section ends
- */
- /* skills section starts */
+/* about section ends*/
+
+/* achievements section starts */
+.achievements-section-container{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 150px;
+}
+
+.achievements-section{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.achievement-info{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.achievement-info p{
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 25px;
+    color: var(--color-white);
+}
+
+/* skills section starts */
 .skills-section-container{
     padding-top: 150px;
     width: 100%;
@@ -1466,7 +1500,7 @@ footer{
 }
 
 .footer-avatar-img{
-    /* width: 100%; */
+    width: 100%;
     z-index:2;
     /* opacity: .2; */
 }
@@ -1478,9 +1512,9 @@ footer{
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 18px;
+    gap: 1px;
     padding-left: 5px;
-    margin-bottom: 75px;
+    margin-bottom: 40px;
     margin-left: 10px;
 }
 .footer-avatar-eye{
@@ -1503,12 +1537,12 @@ footer{
 }
 
 .footer-right-eye{
-    box-shadow: 15px 15px 5px rgba(0, 0, 0, 0.233) inset,
-    10px 10px 5px rgba(41, 33, 33, 0.644) inset;
+    /* box-shadow: 15px 15px 5px rgba(0, 0, 0, 0.233) inset,
+    10px 10px 5px rgba(41, 33, 33, 0.644) inset; */
     position: relative;
 }
 .footer-left-eye{
-    box-shadow: -10px -15px 5px rgba(0, 0, 0, 0.349) inset;
+    /* box-shadow: -10px -15px 5px rgba(0, 0, 0, 0.349) inset; */
     position: relative;
 
 }
