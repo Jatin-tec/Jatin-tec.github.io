@@ -286,14 +286,16 @@
           </div>
           <div class="achievement-info">
             <p tabindex="0">
-              Student Data Science Championship: Secured 1st runner-up in the Data Science Student Championship, wowing judges with my work!
+              Student Data Science Championship: Secured 1st runner-up in the Data Science Student Championship, wowing
+              judges with my work!
             </p>
           </div>
         </div>
         <div class="info-dp-section">
           <div class="achievement-info">
             <p tabindex="0">
-              Clinched 1st runner-up at SprintHacks 2.0, transforming ambitious ideas into a groundbreaking prototype with an incredible team!
+              Clinched 1st runner-up at SprintHacks 2.0, transforming ambitious ideas into a groundbreaking prototype
+              with an incredible team!
             </p>
           </div>
           <div class="dp" data-aos="fade-up">
@@ -306,14 +308,16 @@
           </div>
           <div class="achievement-info">
             <p tabindex="0">
-              Won the Auth0 track at Wittyhacks for Aachary, a groundbreaking interactive learning platform revolutionizing online education!
+              Won the Auth0 track at Wittyhacks for Aachary, a groundbreaking interactive learning platform
+              revolutionizing online education!
             </p>
           </div>
         </div>
         <div class="info-dp-section">
           <div class="achievement-info">
             <p tabindex="0">
-              Smart India Hackathon 2023: National finalist in SIH 2023, ranking top 7 for developing an AI chatbot builder for DELL!
+              Smart India Hackathon 2023: National finalist in SIH 2023, ranking top 7 for developing an AI chatbot
+              builder for DELL!
             </p>
           </div>
           <div class="dp" data-aos="fade-up">
@@ -587,6 +591,7 @@
     </div>
   </footer>
   <!-- footer ends here -->
+  <div id="agenq-root"></div>
 
   <script src="main.js"></script>
   <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
@@ -637,6 +642,19 @@
   <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
     data-id="jatin.tech" data-description="Support me on Buy me a coffee!" data-color="#BD5FFF" data-position="left"
     data-x_margin="18" data-y_margin="18"></script>
+
+  <script src="https://cdn.agenqglobal.com/agenq-client-sdk.js" async></script>
+  <script>
+    const timer = setInterval(() => {
+      if (!window.AGENQ || !window.AGENQ.render) return;
+      clearInterval(timer);
+      window.AGENQ.render({
+        agentId: "abd4bff9-9b21-484e-92f8-13185dd470dd",
+        projectId: "870f1cc9-0c88-43d9-907e-d2344a19e0f9",
+        customerCode: "JATIN-PORTFOLIO",
+      });
+    }, 150);
+  </script>
 </body>
 
 </html>
